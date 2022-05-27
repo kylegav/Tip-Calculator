@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Easy Tip*
 
-**Name of your app** is a tip calculator application for iOS.
+*Easy Tip* is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyle Gavin**
 
-Time spent: **X** hours spent in total
+Time spent: **0.5** hours spent in total
 
 ## User Stories
 
