@@ -32,9 +32,7 @@ Here's a walkthrough of implemented user stories:
 ![Simulator Screen Recording - iPhone 12 - 2022-05-27 at 17 49 22](https://user-images.githubusercontent.com/60828879/170793532-3d610057-ba23-49c8-8103-6d5e832b32f7.gif)
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+My only challange was discovering why the slider bar would not center when building and testing the app. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
