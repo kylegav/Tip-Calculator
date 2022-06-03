@@ -444,6 +444,7 @@
 				DEVELOPMENT_TEAM = 846UKFDJSH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Tip Calculator/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Easy Tip";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -454,7 +455,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kyle.TestBuilds.Tip-Calculator";
+				PRODUCT_BUNDLE_IDENTIFIER = com.specialk.tipcalc.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -472,6 +473,7 @@
 				DEVELOPMENT_TEAM = 846UKFDJSH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Tip Calculator/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Easy Tip";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -482,7 +484,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kyle.TestBuilds.Tip-Calculator";
+				PRODUCT_BUNDLE_IDENTIFIER = com.specialk.tipcalc.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
