@@ -14,9 +14,6 @@
 		C5BB0736284165E600E60157 /* Tip_Calculator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C5BB0734284165E600E60157 /* Tip_Calculator.xcdatamodeld */; };
 		C5BB0738284165EB00E60157 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5BB0737284165EB00E60157 /* Assets.xcassets */; };
 		C5BB073B284165EB00E60157 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5BB0739284165EB00E60157 /* LaunchScreen.storyboard */; };
-		C5BB0746284165EB00E60157 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BB0745284165EB00E60157 /* Tip_CalculatorTests.swift */; };
-		C5BB0750284165EB00E60157 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BB074F284165EB00E60157 /* Tip_CalculatorUITests.swift */; };
-		C5BB0752284165EB00E60157 /* Tip_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5BB0751284165EB00E60157 /* Tip_CalculatorUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,10 +44,7 @@
 		C5BB073A284165EB00E60157 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C5BB073C284165EB00E60157 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5BB0741284165EB00E60157 /* Tip CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C5BB0745284165EB00E60157 /* Tip_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorTests.swift; sourceTree = "<group>"; };
 		C5BB074B284165EB00E60157 /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C5BB074F284165EB00E60157 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
-		C5BB0751284165EB00E60157 /* Tip_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +76,6 @@
 			isa = PBXGroup;
 			children = (
 				C5BB072A284165E600E60157 /* Tip Calculator */,
-				C5BB0744284165EB00E60157 /* Tip CalculatorTests */,
-				C5BB074E284165EB00E60157 /* Tip CalculatorUITests */,
 				C5BB0729284165E600E60157 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -111,23 +103,6 @@
 				C5BB0734284165E600E60157 /* Tip_Calculator.xcdatamodeld */,
 			);
 			path = "Tip Calculator";
-			sourceTree = "<group>";
-		};
-		C5BB0744284165EB00E60157 /* Tip CalculatorTests */ = {
-			isa = PBXGroup;
-			children = (
-				C5BB0745284165EB00E60157 /* Tip_CalculatorTests.swift */,
-			);
-			path = "Tip CalculatorTests";
-			sourceTree = "<group>";
-		};
-		C5BB074E284165EB00E60157 /* Tip CalculatorUITests */ = {
-			isa = PBXGroup;
-			children = (
-				C5BB074F284165EB00E60157 /* Tip_CalculatorUITests.swift */,
-				C5BB0751284165EB00E60157 /* Tip_CalculatorUITestsLaunchTests.swift */,
-			);
-			path = "Tip CalculatorUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,7 +247,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5BB0746284165EB00E60157 /* Tip_CalculatorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,8 +254,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5BB0752284165EB00E60157 /* Tip_CalculatorUITestsLaunchTests.swift in Sources */,
-				C5BB0750284165EB00E60157 /* Tip_CalculatorUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
